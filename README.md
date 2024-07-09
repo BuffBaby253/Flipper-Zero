@@ -1,3 +1,3 @@
 # Flipper Zero
 ## Scripts &amp; Tools For Flipper
-Anything developed for the Flipper Zero here. The Flipper always has something new for us and anything I contribute will be added here
+An open source tomagotchi looking multi-tool for hackers and electronic lovers, a device I love and use myself so why not build projects on it
